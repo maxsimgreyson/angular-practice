@@ -1,13 +1,22 @@
 {
+<<<<<<< HEAD
   "trailingComma": "es5",
   "bracketSameLine": true,
   "printWidth": 80,
+=======
+>>>>>>> fbaee85 (prettier)
   "tabWidth": 2,
   "useTabs": false,
   "singleQuote": true,
   "semi": true,
   "bracketSpacing": true,
   "arrowParens": "avoid",
+<<<<<<< HEAD
+=======
+  "trailingComma": "es5",
+  "bracketSameLine": true,
+  "printWidth": 80,
+>>>>>>> fbaee85 (prettier)
   "overrides": [
     {
       "files": "*.html",
